@@ -1,0 +1,5 @@
+commit b1a3566cf333b4233fdbe4b1e627121f731db40d
+Author: Steven An <1388372+stevesan@users.noreply.github.com>
+Date:   Thu Jul 16 14:15:51 2020 -0400
+
+    Make sure we remove tsbuildinfo cache upon clean (#1369)
